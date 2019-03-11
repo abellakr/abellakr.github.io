@@ -282,11 +282,6 @@ section{
     font-size: 28px;
 }
 
-<<<<<<< HEAD
-/* hobbies section style */
-.hobbies{
-    height: 80%;
-=======
 /* .projects .section-footnote a {
     color: #373737;
 } */
@@ -295,7 +290,6 @@ section{
 /* hobbies section style */
 .hobbies{
     height: 70%;
->>>>>>> added descriptions for projects
     width: 100%;
     margin: 0 auto;
     padding: 50px 0;

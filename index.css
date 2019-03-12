@@ -111,8 +111,8 @@ section{
 
 /* home section style */
 .home{
-    color: goldenrod;
-    padding: 100px 0;
+    color: #C0B283;
+    padding: 150px 0;
     text-align: left;
     display: flex;
     justify-content: center;
@@ -144,6 +144,7 @@ section{
 .home h1{
     font-size: 64px;
     font-weight: bold;
+    text-align: center;
     text-transform: uppercase;
     text-shadow: 0 15px 20px #373737;
     margin-bottom: 0;
@@ -151,8 +152,8 @@ section{
 }
 
 .home h5{
-    background: transparent;
-    font-size: 16px;
+    /* background: transparent; */
+    font-size: 20px;
     font-style: italic;
     text-align: center;
     padding: 10px 20px;
@@ -162,6 +163,11 @@ section{
     border-radius: 2px;
     visibility: hidden;
 }
+/* 
+.home h1 h5{
+    background: black;
+    opacity: .4;
+} */
 
 /* section title style */
 .section-title{

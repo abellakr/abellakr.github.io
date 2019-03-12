@@ -118,7 +118,7 @@ section{
     justify-content: center;
     align-items: flex-start;
     /* background: url(images/image.png) no-repeat center center fixed media="(max-width: 400px)"; */
-    background: url(images/image.png) no-repeat;
+    background: url(images/image-min.png) no-repeat;
     
     background-repeat: no-repeat;
     background-position: center top;

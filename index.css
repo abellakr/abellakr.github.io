@@ -54,7 +54,7 @@ table {
 /* header style */
 header {
     background: black;
-    opacity: .4;
+    opacity: .6;
     position: absolute;
     top: 0;
     left: 0;
@@ -112,12 +112,12 @@ section{
 /* home section style */
 .home{
     color: #C0B283;
-    padding: 150px 0;
+    padding: 200px 0;
+    /* height: %; */
     text-align: left;
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    /* background: url(images/image.png) no-repeat center center fixed media="(max-width: 400px)"; */
     background: url(images/image-min.png) no-repeat;
     
     background-repeat: no-repeat;
@@ -133,15 +133,10 @@ section{
     /* background-attachment: fixed; */
     z-index: 9;
 }
-/* 
-@media only screen and (max-device-width: 400px) {
-    .home { 
-      background-image: url('images/1.jpg'); 
-    }
-  } */
-
 
 .home h1{
+    /* background: black;
+    opacity: .7; */
     font-size: 64px;
     font-weight: bold;
     text-align: center;
@@ -153,6 +148,8 @@ section{
 
 .home h5{
     /* background: transparent; */
+    /* background: black;
+    opacity: .7; */
     font-size: 20px;
     font-style: italic;
     text-align: center;
@@ -163,6 +160,7 @@ section{
     border-radius: 2px;
     visibility: hidden;
 }
+
 /* 
 .home h1 h5{
     background: black;

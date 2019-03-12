@@ -120,15 +120,15 @@ section{
     /* background: url(images/image.png) no-repeat center center fixed media="(max-width: 400px)"; */
     background: url(images/image.png) no-repeat;
     
-    /* background-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-position: center top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;  */
+    background-size: cover; 
 
-    background-size: cover;
-    background-position: right;
+    /* background-size: cover;
+    background-position: right; */
     background-color: #f4f4f4;
     /* background-attachment: fixed; */
     z-index: 9;

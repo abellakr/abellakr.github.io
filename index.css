@@ -282,9 +282,9 @@ section{
 
 .projects .section-footnote{
     width: 40%;
-    margin: 25px 50px;
+    /* margin: 25px 50px; */
     color: #373737;
-    /* margin: 20px auto; */
+    margin: 20px auto;
     text-align: center;
     /* z-index: 99; */
     background-color: #F4F4F4;
